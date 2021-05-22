@@ -3,7 +3,8 @@ node_modules/
 package-lock.json
 
 # build
-build/
+build
+dist
 
 tmp/
 temp/
