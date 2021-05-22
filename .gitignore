@@ -1,0 +1,17 @@
+# dependency directories
+node_modules/
+package-lock.json
+
+# build
+build/
+
+tmp/
+temp/
+
+# env directories
+.idea/
+.vscode/
+.env
+.env.*
+.env*.local
+ormconfig.json
