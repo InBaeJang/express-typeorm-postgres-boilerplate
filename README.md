@@ -1,7 +1,14 @@
 ## 프로젝트 생성 커맨드
 
+1. Global typeorm 설치
+
 ```bash
 npm install -g typeorm
+```
+
+2. 프로젝트 생성
+
+```bash
 typeorm init --name express-typeorm-postgres-boilerplate --database postgres --express --docker
 ```
 
